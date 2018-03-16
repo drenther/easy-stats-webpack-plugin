@@ -1,0 +1,27 @@
+{
+	"name": "easy-stats-webpack-plugin",
+	"version": "0.1.0",
+	"description": "Webpack stats plugin with granular control, filtering, transform function and custom stats",
+	"main": "lib/index.js",
+	"scripts": {
+		"test": "npm run test"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/drenther/easy-stats-webpack-plugin.git"
+	},
+	"keywords": ["webpack", "webpack-plugin", "webpack-stats", "easy-stats-webpack-plugin"],
+	"author": "Soumyajit Pathak",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/drenther/easy-stats-webpack-plugin/issues"
+	},
+	"homepage": "https://github.com/drenther/easy-stats-webpack-plugin#readme",
+	"dependencies": {
+		"chalk": "^2.3.2",
+		"lodash": "^4.17.5"
+	},
+	"devDependencies": {
+		"np": "^2.20.1"
+	}
+}
